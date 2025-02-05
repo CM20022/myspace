@@ -1,2 +1,0 @@
-# Miniprojeto-webSIG
-ABOUT ME
