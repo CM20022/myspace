@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 100 125"
+   x="0px"
+   y="0px"
+   version="1.1"
+   id="svg7"
+   sodipodi:docname="noun-outdoor-advertising.svg"
+   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs7" />
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="6.216"
+     inkscape:cx="49.951737"
+     inkscape:cy="62.339125"
+     inkscape:window-width="1920"
+     inkscape:window-height="991"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg7" />
+  <title
+     id="title1">Straight_Line</title>
+  <path
+     d="M 96.093573,30.865509 3.2629266,30.704634 c -3.92156096,-0.0068 -4.24331717,-8.700129 -0.3217503,-8.700129 H 97.058824 c 3.921566,0 2.956306,8.8678 -0.965251,8.861004 z"
+     id="path1"
+     style="fill:#000000;fill-opacity:1;stroke-width:1.92735;stroke-dasharray:none;paint-order:fill markers stroke"
+     sodipodi:nodetypes="sssss" />
+  <path
+     d="m 97.058824,75.691764 c -1.624367,0 -4.877232,-1.335376 -4.871679,-2.982626 L 92.34802,24.987131 c -1.768181,-3.975365 7.65343,-3.975365 7.65198,0 v 47.722007 c 0,1.647259 -1.316809,2.982626 -2.941176,2.982626 z"
+     id="path2"
+     style="fill:#000000;fill-opacity:1;stroke-width:1.92735;stroke-dasharray:none;paint-order:fill markers stroke"
+     sodipodi:nodetypes="ssccss" />
+  <path
+     d="M 97.058824,75.691764 H 45.045045 2.9411763 c -3.9215668,0 -2.79543466,-8.063472 1.1261262,-8.056628 l 92.1871455,0.160875 c 3.921562,0.0068 4.725942,7.895753 0.804376,7.895753 z"
+     id="path3"
+     style="fill:#000000;fill-opacity:1;stroke-width:1.92735;stroke-dasharray:none;paint-order:fill markers stroke"
+     sodipodi:nodetypes="scssss" />
+  <path
+     d="M 2.9411763,75.691764 C 1.3168092,75.691764 -4.449287e-7,74.356397 -1.7262379e-7,72.709138 V 24.987131 C 3.7813391e-4,21.010682 8.1349834,21.010682 8.1346051,24.987131 v 47.722007 c 0,1.647259 -3.5690617,2.982626 -5.1934288,2.982626 z"
+     id="path4"
+     style="fill:#000000;fill-opacity:1;stroke-width:1.92735;stroke-dasharray:none;paint-order:fill markers stroke"
+     sodipodi:nodetypes="ssccss" />
+  <path
+     d="m 27.596715,99.552769 c -1.624367,0 -4.067303,-1.335368 -4.067302,-2.982627 V 72.709138 c 0.0023,-3.974512 8.13689,-3.652762 8.134604,0.32175 l -0.160875,23.539254 c -0.01126,1.64722 -2.28206,2.982627 -3.906427,2.982627 z"
+     id="path5"
+     style="fill:#000000;fill-opacity:1;stroke-width:1.92735;stroke-dasharray:none;paint-order:fill markers stroke"
+     sodipodi:nodetypes="ssccss" />
+  <path
+     d="m 72.564164,99.552769 c -1.624368,0 -4.056272,-1.335405 -4.067303,-2.982627 L 68.335986,72.548263 c 0.0014,-3.975366 8.136051,-3.81449 8.134605,0.160875 v 23.861004 c 10e-7,1.647259 -2.28206,2.982627 -3.906427,2.982627 z"
+     id="path6"
+     style="fill:#000000;fill-opacity:1;stroke-width:1.92735;stroke-dasharray:none;paint-order:fill markers stroke"
+     sodipodi:nodetypes="ssccss" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:title>Straight_Line</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+</svg>
