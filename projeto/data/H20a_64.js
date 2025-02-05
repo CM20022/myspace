@@ -1,0 +1,1 @@
+var json_H20a_64 = {"type":"FeatureCollection","name":"H20a_64","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"Name":"Paragem de veículos de transporte coletivo de passageiros","tipo":"H20a","comentario":null},"geometry":{"type":"Point","coordinates":[-8.416733661999956,41.838697617000037]}}]}

@@ -1,0 +1,1 @@
+var json_papeleiras_42 = {"type":"FeatureCollection","name":"papeleiras_42","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"Name":"papeleiras","comments":null},"geometry":{"type":"Point","coordinates":[-8.416750455384182,41.839173666512359]}}]}

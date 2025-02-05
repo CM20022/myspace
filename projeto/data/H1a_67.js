@@ -1,0 +1,1 @@
+var json_H1a_67 = {"type":"FeatureCollection","name":"H1a_67","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"Name":"Estacionamento autorizado","tipo":"H1a","comentario":null},"geometry":{"type":"Point","coordinates":[-8.416491052334253,41.832947803846317]}}]}

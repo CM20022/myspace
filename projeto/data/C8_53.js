@@ -1,0 +1,1 @@
+var json_C8_53 = {"type":"FeatureCollection","name":"C8_53","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"Name":"Transito proibido a veículos de largura superior a ... m","tipo":"C8","comentario":"Largura de 2.10 m"},"geometry":{"type":"Point","coordinates":[-8.416221439175205,41.833530448963764]}}]}

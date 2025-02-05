@@ -1,0 +1,1 @@
+var json_C9_52 = {"type":"FeatureCollection","name":"C9_52","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"Name":"Trânsito proibido a veículos de altura superior a ... m","tipo":"C9","comentario":"Altura de 1.70 metros"},"geometry":{"type":"Point","coordinates":[-8.416197438784005,41.833526024447394]}}]}
